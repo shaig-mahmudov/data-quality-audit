@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "full_name": "Alice Johnson",
+        "age": 20,
+        "faculty": "Computer Science",
+        "gpa": 3.85
+    },
+    {
+        "id": 2,
+        "full_name": "Bob Smith",
+        "age": null,
+        "faculty": "Information Systems",
+        "gpa": 2.9
+    },
+    {
+        "id": 3,
+        "full_name": "Charlie Brown",
+        "age": 21,
+        "faculty": null,
+        "gpa": 3.4
+    },
+    {
+        "id": 4,
+        "full_name": "Diana Prince",
+        "age": 22,
+        "faculty": "Computer Science",
+        "gpa": 3.1
+    },
+    {
+        "id": 4,
+        "full_name": "Diana Prince",
+        "age": 22,
+        "faculty": "Computer Science",
+        "gpa": 3.1
+    }
+]

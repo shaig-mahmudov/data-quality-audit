@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <full_name>Alice Johnson</full_name>
+        <age>20</age>
+        <faculty>Computer Science</faculty>
+        <gpa>3.85</gpa>
+    </student>
+    <student>
+        <id>2</id>
+        <full_name>Bob Smith</full_name>
+        <age></age>
+        <faculty>Information Systems</faculty>
+        <gpa>2.90</gpa>
+    </student>
+    <student>
+        <id>3</id>
+        <full_name>Charlie Brown</full_name>
+        <age>21</age>
+        <faculty></faculty>
+        <gpa>3.40</gpa>
+    </student>
+    <student>
+        <id>4</id>
+        <full_name>Diana Prince</full_name>
+        <age>22</age>
+        <faculty>Computer Science</faculty>
+        <gpa>3.10</gpa>
+    </student>
+    <student>
+        <id>4</id>
+        <full_name>Diana Prince</full_name>
+        <age>22</age>
+        <faculty>Computer Science</faculty>
+        <gpa>3.10</gpa>
+    </student>
+</students>
